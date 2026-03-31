@@ -13,9 +13,9 @@ Các ô Cài đặt nhanh để bật/tắt cài đặt hệ thống trên Andro
 
 ## Cập nhật Mới nhất
 
-- **Widget Màn hình chính & Lối tắt**: Triển khai các widget màn hình chính mới và cải tiến lối tắt ứng dụng để truy cập các tính năng nhanh hơn.
+- **Xóa Lối tắt**: Đã xóa tính năng lối tắt màn hình chính; thay vào đó hãy sử dụng Widget màn hình chính.
+- **Widget Màn hình chính**: Thêm widget vào màn hình chính để bật/tắt bất kỳ ô nào trực tiếp.
 - **Cải tiến chung**: Nhiều cập nhật và tối ưu hóa khác nhau.
-- **Bản phát hành Mới**: Phiên bản 1.0.2 (build 3) hiện đã có sẵn.
 
 ## Ảnh chụp màn hình
 
@@ -33,7 +33,7 @@ Các ô Cài đặt nhanh để bật/tắt cài đặt hệ thống trên Andro
 
 Tải bản phát hành mới nhất từ [Trang bản phát hành](https://github.com/kaidraw-21/android-snap-tiles/blob/main/RELEASES.md).
 
-**[⬇ Tải về snap-tiles-v1.0.3.apk](https://github.com/kaidraw-21/android-snap-tiles/raw/main/download/snap-tiles-v1.0.3.apk)**
+**[⬇ Tải về snap-tiles-v1.0.4.apk](https://github.com/kaidraw-21/android-snap-tiles/raw/main/download/snap-tiles-v1.0.4.apk)**
 
 ### Xây dựng từ mã nguồn
 

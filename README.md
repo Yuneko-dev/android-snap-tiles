@@ -22,9 +22,9 @@ Quick Settings tiles to toggle system settings on Android with a single tap — 
 
 ## Latest Updates
 
-- **Home Screen Widgets & Shortcuts**: Implemented new home screen widgets and enhanced app shortcuts for quicker access to features.
+- **Removed Shortcuts**: Home screen shortcut feature removed; use Home Screen Widgets instead.
+- **Home Screen Widgets**: Add a widget to your home screen to toggle any tile directly.
 - **General Improvements**: Various updates and optimizations.
-- **New Release**: Version 1.0.2 (build 3) is now available.
 
 ## Screenshots
 
@@ -42,7 +42,7 @@ Quick Settings tiles to toggle system settings on Android with a single tap — 
 
 Grab the latest release from the [Releases page](https://github.com/kaidraw-21/android-snap-tiles/blob/main/RELEASES.md).
 
-**[⬇ Download snap-tiles-v1.0.3.apk](https://github.com/kaidraw-21/android-snap-tiles/raw/main/download/snap-tiles-v1.0.3.apk)**
+**[⬇ Download snap-tiles-v1.0.4.apk](https://github.com/kaidraw-21/android-snap-tiles/raw/main/download/snap-tiles-v1.0.4.apk)**
 
 ### Build from source
 

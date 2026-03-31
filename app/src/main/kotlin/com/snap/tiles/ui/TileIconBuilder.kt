@@ -7,7 +7,6 @@ import android.graphics.Paint
 import android.graphics.RectF
 import androidx.annotation.DrawableRes
 import androidx.core.content.ContextCompat
-import androidx.core.graphics.drawable.IconCompat
 
 fun buildTileIconBitmap(context: Context, @DrawableRes iconRes: Int): Bitmap {
     val density = context.resources.displayMetrics.density
@@ -53,6 +52,3 @@ fun buildTileIconBitmap(context: Context, @DrawableRes iconRes: Int): Bitmap {
 
     return bitmap
 }
-
-fun buildShortcutIcon(context: Context, @DrawableRes iconRes: Int): IconCompat =
-    IconCompat.createWithAdaptiveBitmap(buildTileIconBitmap(context, iconRes))
